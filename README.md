@@ -23,9 +23,8 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
-
 <p align="center">
-  <iframe src="https://giphy.com/embed/2xyx8KRogVl7iM6wHs" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-google-googleio-googledevs-2xyx8KRogVl7iM6wHs">via GIPHY</a></p>
+  <img src= "https://crazydevelopers.in/wp-content/uploads/2021/09/cms-website-development-service.gif">
 </p>
 
 ---
@@ -33,36 +32,35 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
+name: Muhammad Wahab
+located_in: Karachi, Pakistan
 current_job: Full Stack Developer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Intermediate in Commerce",
+    "Matriculation Science",
   ]
 company: Soulber
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
+    "Graphics Design",
     "Machine Learning",
     "UI/UX",
-    "Game Development",
     "DevOps",
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Website Manager at Cherrywood Builders",
+    "Creative Designer at iShopping.pk",
+    "Merchandiser (Team Lead) at iShopping.pk",
+    "Products Data Managment Expert",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
+currently_learning: ["Flutter, SQL and React Native"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
+hobbies: ["Gaming", "Bike Ride", "Music", "Art"]
 ```
   
 ---  
