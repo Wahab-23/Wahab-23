@@ -49,5 +49,5 @@ hobbies: ["Gaming", "Bike Ride", "Music", "Art"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Wahab-23/snake/2063ed3c250a74731f1396ec095c9b2a55105ed9/main%20file.svg)
  
