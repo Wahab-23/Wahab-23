@@ -22,6 +22,7 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "Website Developer at Enfuri "
     "Website Manager at Cherrywood Builders",
     "Creative Designer at iShopping.pk",
     "Merchandiser (Team Lead) at iShopping.pk",
