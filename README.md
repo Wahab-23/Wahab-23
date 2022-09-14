@@ -22,11 +22,11 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Website Developer at Enfuri "
+    "Website Developer at Enfuri",
     "Website Manager at Cherrywood Builders",
     "Creative Designer at iShopping.pk",
     "Merchandiser (Team Lead) at iShopping.pk",
-    "Products Data Managment Expert",
+    "Products Data Managment Expert"
   ]
   
 currently_learning: ["Flutter, SQL and React Native"]
