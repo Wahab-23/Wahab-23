@@ -11,7 +11,7 @@ education:
     "Intermediate in Commerce",
     "Matriculation Science",
   ]
-company: Soulber
+company: iShopping.pk
 fields_of_interests:
   [
     "Web Development",
