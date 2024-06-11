@@ -7,9 +7,7 @@ located_in: Karachi, Pakistan
 current_job: Full Stack Developer
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Intermediate in Commerce",
-    "Matriculation Science",
+    "Self-Taught Problem Solver 😊"
   ]
 company: iShopping.pk
 fields_of_interests:
@@ -18,7 +16,7 @@ fields_of_interests:
     "Graphics Design",
     "Machine Learning",
     "UI/UX",
-    "DevOps",
+    "DevOps"
   ]
 technical_background:
   [
@@ -31,7 +29,7 @@ technical_background:
   
 currently_learning: ["Flutter, SQL and React Native"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Bike Ride", "Music", "Art"]
+hobbies: ["Gaming", "Bikes", "Music", "Art"]
 ```
   
 ---  
