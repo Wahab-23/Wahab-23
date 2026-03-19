@@ -3,10 +3,7 @@
   <h3>Full Stack Web Developer | UI/UX Enthusiast | Lifelong Learner</h3>
   
   <p>
-    <a href="https://scriptersite.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-scriptersite.com-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+    <a href="https://linkedin.com/in/abdul-wahab-web-developer" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
