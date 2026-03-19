@@ -41,3 +41,23 @@
   ],
   "hobbies": ["Gaming", "Bikes", "Music", "Art"]
 }
+```
+🚀 Tech Stack & Tools
+Frontend:
+
+Backend & Database:
+
+E-Commerce & CMS:
+GitHub Stats
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DWahab-23%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue" alt="Wahab's GitHub Stats" width="48%" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DWahab-23%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/Wahab-23/Wahab-23/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/Wahab-23/Wahab-23/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/Wahab-23/Wahab-23/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
